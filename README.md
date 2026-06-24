@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0374-guess-number-higher-or-lower) |
+## Array
+|  |
+| ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2215-find-the-difference-of-two-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2215-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
