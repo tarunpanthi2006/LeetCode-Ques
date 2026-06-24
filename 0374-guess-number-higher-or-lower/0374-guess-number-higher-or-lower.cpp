@@ -10,12 +10,13 @@
 class Solution {
 public:
     int guessNumber(int n) {
-        long long lo=1;
-        long long hi = n;
+        int lo=1;
+        int hi = n;
         while(lo<=hi){
             int mid = lo+(hi-lo)/2;
-            if(guess(mid)==0) return mid;
-            else if(guess(mid)==-1) hi=mid-1;
+            int val = guess(mid);
+            if(val==0) return mid;
+            else if(val==-1) hi=mid-1;
             else lo=mid+1;
         }
         return 0;
