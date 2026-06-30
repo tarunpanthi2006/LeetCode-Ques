@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0002-add-two-numbers) |
 | [0258-add-digits](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Simulation
@@ -47,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0025-reverse-nodes-in-k-group) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0025-reverse-nodes-in-k-group) |
 ## Divide and Conquer
 |  |
