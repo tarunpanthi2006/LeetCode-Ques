@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0739-daily-temperatures](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0994-rotting-oranges) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0191-number-of-1-bits) |
 ## String
