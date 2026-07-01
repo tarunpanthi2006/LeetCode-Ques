@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Simulation
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0013-roman-to-integer) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Linked List
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
