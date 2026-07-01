@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0001-two-sum) |
+| [0739-daily-temperatures](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0739-daily-temperatures) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
