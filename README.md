@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0025-reverse-nodes-in-k-group) |
 ## Recursion
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Stack
 |  |
 | ------- |
