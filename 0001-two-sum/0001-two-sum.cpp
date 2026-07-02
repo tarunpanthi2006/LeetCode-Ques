@@ -1,16 +1,36 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        // coz mereko index return karni hai so mai map use karunga nahi toh mai sets use karta
-        unordered_map<int,int>map;
         int n=nums.size();
+        vector<int>temp(n);
         for(int i=0;i<n;i++){
-            int temp = target-nums[i];
-            if(map.find(temp)==map.end()){
-                map[nums[i]]=i;
-            }
-            else return {i,map[temp]};
+            temp[i]=nums[i];
         }
-        return{0,0};
+        vector<int>ans;
+        sort(nums.begin(),nums.end());
+        int i=0;
+        int j=n-1;
+        int a=0;
+        int b=0;
+        while(i<j){
+            int sum=nums[i]+nums[j];
+            if(sum==target){
+                a=nums[i];
+                b=nums[j];
+                break;
+            }
+            else if(sum>target){
+                j--;
+            }
+            else{
+                i++;
+            }
+        }
+        for(int i=0;i<n;i++){
+            if(temp[i]==a)ans.push_back(i);
+            else if(temp[i]==b)ans.push_back(i);
+            if(ans.size()==2)break;
+        }
+        return ans;
     }
 };
