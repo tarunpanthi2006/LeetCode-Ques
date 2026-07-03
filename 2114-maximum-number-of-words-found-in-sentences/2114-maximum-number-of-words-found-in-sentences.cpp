@@ -9,8 +9,9 @@ public:
             for(int j=0;j<s.length();j++){
                 if(s[j]==' ')spaces++;
             }
+            spaces++;
             maxword=max(maxword,spaces);
         }
-        return maxword+1;
+        return maxword;
     }
 };
