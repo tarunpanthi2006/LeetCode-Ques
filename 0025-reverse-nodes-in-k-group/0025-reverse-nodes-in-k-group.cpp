@@ -1,32 +1,32 @@
 class Solution {
 public:
-    ListNode* reverse(ListNode* start, ListNode* temp) {
-    ListNode* prev = NULL;
-    ListNode* curr = start;
-    ListNode* stop = temp->next; 
-    while (curr != stop) {
-        ListNode* nxt = curr->next; 
-        curr->next = prev;         
-        prev = curr;                
-        curr = nxt;                 
+    ListNode* reverse(ListNode* start, ListNode*temp){
+        ListNode*curr=start;
+        ListNode*prev=NULL;
+        ListNode* stop = temp->next; 
+        while(curr!=stop){
+            ListNode*nxt=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=nxt;
+        }
+        return prev;
     }
-    return prev;
-}
     ListNode* reverseKGroup(ListNode* head, int k) {
-        ListNode* start = head;
-        ListNode* temp = head;
-         ListNode* prev = NULL;
         int count = 1;
-        while(temp!=NULL){
+        ListNode*temp=head;
+        ListNode*start=head;
+        ListNode*prev=NULL;
+        while(temp){
             if(count==k){
-                ListNode* t=temp->next;
-                ListNode* reversedHead = reverse(start, temp);
+                ListNode*t=temp->next;
+                ListNode*revhead=reverse(start,temp);
                 start->next=t;
                 if(prev==NULL){
-                    head = reversedHead;
+                    head=revhead;
                 }
                 else{
-                    prev->next = reversedHead;
+                    prev->next=revhead;
                 }
                 count=1;
                 prev=start;
@@ -34,8 +34,8 @@ public:
                 temp=t;
             }
             else{
-                temp=temp->next;
                 count++;
+                temp=temp->next;
             }
         }
         return head;
