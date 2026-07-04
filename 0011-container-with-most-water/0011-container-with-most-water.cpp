@@ -5,8 +5,9 @@ public:
         int left=0;
         int right=n-1;
         int maxarea=0;
+        int limiting=arr[left];
         while(left<right){
-            int limiting=min(arr[left],arr[right]);
+            limiting=min(arr[left],arr[right]);
             int area=(right-left)*limiting;
             if(limiting==arr[left])left++;
             else right--;
