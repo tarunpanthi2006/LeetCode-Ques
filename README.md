@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1288-remove-covered-intervals) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2094-finding-3-digit-even-numbers) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2942-find-words-containing-character](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2942-find-words-containing-character) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0169-majority-element) |
+| [2094-finding-3-digit-even-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Linked List
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0025-reverse-nodes-in-k-group) |
+| [2094-finding-3-digit-even-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2094-finding-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1288-remove-covered-intervals) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2094-finding-3-digit-even-numbers) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
 |  |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0204-count-primes) |
+| [2094-finding-3-digit-even-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2094-finding-3-digit-even-numbers) |
 ## Quickselect
 |  |
 | ------- |
