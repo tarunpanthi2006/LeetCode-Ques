@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0657-robot-return-to-origin) |
 ## Number Theory
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0657-robot-return-to-origin) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2942-find-words-containing-character) |
