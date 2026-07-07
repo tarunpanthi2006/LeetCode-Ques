@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2769-find-the-maximum-achievable-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1288-remove-covered-intervals) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2094-finding-3-digit-even-numbers) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0169-majority-element) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0169-majority-element) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Greedy
 |  |
 | ------- |
