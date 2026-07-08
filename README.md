@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2094-finding-3-digit-even-numbers) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2942-find-words-containing-character](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2942-find-words-containing-character) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0994-rotting-oranges) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Trie
 |  |
 | ------- |
