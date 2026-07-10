@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0485-max-consecutive-ones) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0268-missing-number) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2094-finding-3-digit-even-numbers) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1288-remove-covered-intervals) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0229-majority-element-ii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Greedy
 |  |
