@@ -11,9 +11,8 @@ public:
                 }
                 else count=1;
             }
-            ans+=s[i];
-            if(count>=3){
-                ans.pop_back();
+            if(count<3){
+                ans+=s[i];
             }
         }
         return ans;
