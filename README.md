@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0025-reverse-nodes-in-k-group) |
+| [0876-middle-of-the-linked-list](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
