@@ -1,14 +1,19 @@
 class Solution {
 public:
-    int helper(int sr,int sc,int er,int ec,vector<vector<int>>&dp){
-        if(sr==er && sc==ec)return 1;
-        if(sr>er || sc>ec)return 0;
-        if(dp[sr][sc]!=-1)return dp[sr][sc];
-        dp[sr][sc]=helper(sr,sc+1,er,ec,dp)+helper(sr+1,sc,er,ec,dp);
-        return dp[sr][sc];
-    }
     int uniquePaths(int m, int n) {
-        vector<vector<int>>dp(m,vector<int>(n,-1));
-        return helper(0,0,m-1,n-1,dp);
+        // by tabulation method simple iterative
+        vector<vector<int>>dp(m,vector<int>(n));
+        for(int j=0;j<n;j++){
+            dp[0][j]=1;
+        }
+        for(int i=0;i<m;i++){
+            dp[i][0]=1;
+        }
+        for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
+                dp[i][j]=dp[i-1][j]+dp[i][j-1]; // bss yahi ek formula pata karna tha thats it. aur yeh easily diagram banakar aa gaya
+            }
+        }
+        return dp[m-1][n-1];
     }
 };
