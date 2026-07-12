@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0746-min-cost-climbing-stairs) |
 | [3840-house-robber-v](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3840-house-robber-v) |
 ## Bit Manipulation
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1288-remove-covered-intervals) |
