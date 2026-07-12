@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0657-robot-return-to-origin) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2942-find-words-containing-character) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0739-daily-temperatures) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
