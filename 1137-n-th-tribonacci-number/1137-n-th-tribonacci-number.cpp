@@ -1,16 +1,15 @@
 class Solution {
-public:
-    int helper(int n , vector<int>&dp){
+public: // by tabulation method
+    int tribonacci(int n) {
+        vector<int>v(n+1);
         if(n==0)return 0;
         if(n==1 || n==2)return 1;
-        if(dp[n]!=-1)return dp[n];
-        else{
-            dp[n]=helper(n-1,dp)+helper(n-2,dp)+helper(n-3,dp);
-            return dp[n];
+        v[0]=0;
+        v[1]=1;
+        v[2]=1;
+        for(int i=3;i<=n;i++){
+            v[i]=v[i-1]+v[i-2]+v[i-3];
         }
-    }
-    int tribonacci(int n) {
-        vector<int>dp(n+1,-1);
-        return helper(n,dp);
+        return v[n];
     }
 };
