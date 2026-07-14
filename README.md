@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0198-house-robber) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0064-minimum-path-sum) |
 | [0867-transpose-matrix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
