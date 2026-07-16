@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2769-find-the-maximum-achievable-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -31,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0258-add-digits) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3840-house-robber-v](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3840-house-robber-v) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -234,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2094-finding-3-digit-even-numbers) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
