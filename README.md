@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1137-n-th-tribonacci-number) |
 | [3840-house-robber-v](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3840-house-robber-v) |
 ## Bit Manipulation
@@ -275,4 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0062-unique-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
