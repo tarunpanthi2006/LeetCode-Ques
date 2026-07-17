@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2769-find-the-maximum-achievable-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0258-add-digits) |
+| [3312-sorted-gcd-pair-queries](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0374-guess-number-higher-or-lower) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Interactive
 |  |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2942-find-words-containing-character](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2942-find-words-containing-character) |
+| [3312-sorted-gcd-pair-queries](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3840-house-robber-v](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3840-house-robber-v) |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Linked List
 |  |
@@ -256,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0229-majority-element-ii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1814-count-nice-pairs-in-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
 ## Greedy
 |  |
 | ------- |
@@ -282,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
 ## Brainteaser
 |  |
 | ------- |
@@ -290,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1025-divisor-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
