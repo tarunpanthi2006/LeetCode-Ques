@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1137-n-th-tribonacci-number) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [3840-house-robber-v](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3840-house-robber-v) |
 ## Bit Manipulation
 |  |
