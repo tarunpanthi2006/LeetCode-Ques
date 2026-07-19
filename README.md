@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0322-coin-change](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0322-coin-change) |
+| [0404-sum-of-left-leaves](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0404-sum-of-left-leaves) |
 | [0994-rotting-oranges](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0404-sum-of-left-leaves](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0404-sum-of-left-leaves](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0404-sum-of-left-leaves](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0404-sum-of-left-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
