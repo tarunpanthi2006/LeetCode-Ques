@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void helper(TreeNode*root,vector<TreeNode*>&v){
+    void helper(TreeNode*&root,vector<TreeNode*>&v){
         if(root==NULL)return;
         v.push_back(root);
         helper(root->left,v);
