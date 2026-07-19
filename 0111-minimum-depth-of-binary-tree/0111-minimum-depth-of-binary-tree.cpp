@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // basically bss BFS lagaya hai and check laga diya beech mein agar left aur right dono null il gaya tho ans wahi mil gaya
     int minDepth(TreeNode* root) {
         if (root == NULL) return 0;
         queue<TreeNode*>q;
