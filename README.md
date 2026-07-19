@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0994-rotting-oranges) |
 ## Matrix
@@ -336,18 +337,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
