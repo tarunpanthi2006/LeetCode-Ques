@@ -1,20 +1,23 @@
 class Solution {
 public:
+    int levels(TreeNode* root){
+        if(root==NULL)return 0;
+        return 1+max(levels(root->left),levels(root->right));
+    }
+    void nth(TreeNode* root,int curr,int level, vector<int>&ans){
+        if(root==NULL)return;
+        if(curr==level){
+            ans[level]=root->val;
+            return;
+        }
+        nth(root->left,curr+1,level,ans);
+        nth(root->right,curr+1,level,ans);
+    }
     vector<int> rightSideView(TreeNode* root) {
-        vector<int>ans;
-        if(root==NULL)return ans;
-        queue<TreeNode*>q;
-        q.push(root);
-        while(q.size()>0){
-            int size=q.size();
-            for(int i=0;i<size;i++){
-                TreeNode*node=q.front();
-                q.pop();
-                // main kaam bss yehi ek line ka hai baaki toh wahi BFS
-                if(i==size-1)ans.push_back(node->val);
-                if(node->left)q.push(node->left);
-                if(node->right)q.push(node->right);
-            }
+        vector<int>ans(levels(root),0);
+        int n=ans.size();
+        for(int i=0;i<n;i++){
+            nth(root,0,i,ans);
         }
         return ans;
     }
