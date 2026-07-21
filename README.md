@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2236-root-equals-sum-of-children) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2236-root-equals-sum-of-children) |
