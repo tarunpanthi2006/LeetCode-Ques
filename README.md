@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0229-majority-element-ii) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
