@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1701-average-waiting-time](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1701-average-waiting-time) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2094-finding-3-digit-even-numbers) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1288-remove-covered-intervals](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1331-rank-transform-of-an-array) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2094-finding-3-digit-even-numbers) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3759-count-elements-with-at-least-k-greater-values) |
