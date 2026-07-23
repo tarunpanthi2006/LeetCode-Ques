@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0867-transpose-matrix) |
+| [1701-average-waiting-time](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1701-average-waiting-time) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1572-matrix-diagonal-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1701-average-waiting-time](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1701-average-waiting-time) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2089-find-target-indices-after-sorting-array) |
