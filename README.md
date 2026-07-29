@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0413-arithmetic-slices) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0540-single-element-in-a-sorted-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1331-rank-transform-of-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2032-two-out-of-three](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2032-two-out-of-three) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1005-maximize-sum-of-array-after-k-negations) |
