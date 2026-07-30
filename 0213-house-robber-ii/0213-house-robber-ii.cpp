@@ -12,7 +12,7 @@ public:
         int n=nums.size();
         if (n == 0) return 0;
         if(n==1)return nums[0];
-        vector<int>dp(n+1,-1);
+        vector<int>dp1(n+1,-1);
         vector<int>dp2(n+1,-1);
         vector<int>temp1;
         vector<int>temp2;
@@ -20,7 +20,7 @@ public:
             if(i!=0)temp1.push_back(nums[i]);
             if(i!=n-1)temp2.push_back(nums[i]);
         }
-        int ans1= helper(n-2,temp1,dp);
+        int ans1= helper(n-2,temp1,dp1);
         int ans2=helper(n-2,temp2,dp2);
         return max(ans1,ans2);
     }
