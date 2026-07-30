@@ -1,20 +1,17 @@
 class Solution {
 public:
-    int recursion(vector<int>& nums, int i, vector<int>& dp) {
-        int n = nums.size();
-        if (i == n - 1)return nums[n - 1];
-        if (i == n - 2)return max(nums[n - 1], nums[n - 2]);
-        if (dp[i] != -1)return dp[i];
-        dp[i] = max(0 + recursion(nums, i + 1, dp),nums[i] + recursion(nums, i + 2, dp));
-        return dp[i];
-        // basically i have 2 choices leave or steal so dono cases ko tackle
-        // kiya if i am stealing i will add that value to ans and then i=i+2 coz
-        // adjacent wale ko ignore karunga if i am leaving then i will go to
-        // i+1;
+    int helper(int n,vector<int>& nums,vector<int>&dp){
+        if (n < 0) return 0;
+        if(n==0)return nums[0];
+        if(dp[n]!=-1)return dp[n];
+        int pick=nums[n]+helper(n-2,nums,dp);
+        int notpick=0+helper(n-1,nums,dp);
+        return dp[n]=max(pick,notpick);
     }
     int rob(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> dp(n, -1);
-        return recursion(nums, 0, dp);
+        int n=nums.size();
+        if (n == 0) return 0;
+        vector<int>dp(n+1,-1);
+        return helper(n-1,nums,dp);
     }
 };
