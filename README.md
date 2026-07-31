@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0931-minimum-falling-path-sum) |
 | [1025-divisor-game](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1137-n-th-tribonacci-number) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0867-transpose-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0994-rotting-oranges) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0867-transpose-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1572-matrix-diagonal-sum) |
