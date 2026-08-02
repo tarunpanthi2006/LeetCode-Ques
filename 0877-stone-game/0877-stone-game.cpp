@@ -10,9 +10,9 @@ int dp[500][500][2];
             return dp[i][j][0]=max(take1,take2);
         }
         if(person==1){
-            int take1=piles[i]+f(piles,i+1,j,0);
-            int take2=piles[j]+f(piles,i,j-1,0);
-            return dp[i][j][1]=max(take1,take2);
+            int take1=0+ f(piles,i+1,j,0);
+            int take2= 0+f(piles,i,j-1,0);
+            return dp[i][j][1]=min(take1,take2);
         }
         return dp[i][j][person]=0;
     }
