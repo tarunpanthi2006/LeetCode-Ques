@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0377-combination-sum-iv) |
 | [0397-integer-replacement](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0877-stone-game) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0485-max-consecutive-ones) |
@@ -531,4 +533,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0877-stone-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
