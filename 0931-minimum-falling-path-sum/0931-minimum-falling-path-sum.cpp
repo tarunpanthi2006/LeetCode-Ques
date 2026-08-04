@@ -1,7 +1,7 @@
 class Solution {
 public:
     int f(int row, int col, vector<vector<int>>& matrix,
-          vector<vector<int>>& dp) {
+          vector<vector<int>>& dp, vector<vector<bool>>& vis) {
 
         int n = matrix.size();
 
@@ -13,9 +13,12 @@ public:
 
         if (dp[row][col]!=INT_MIN)
             return dp[row][col];
-        int left = f(row - 1, col - 1, matrix, dp);
-        int up = f(row - 1, col, matrix, dp);
-        int right = f(row - 1, col + 1, matrix, dp);
+
+       
+
+        int left = f(row - 1, col - 1, matrix, dp, vis);
+        int up = f(row - 1, col, matrix, dp, vis);
+        int right = f(row - 1, col + 1, matrix, dp, vis);
 
         int best = min({left, up, right});
 
@@ -29,10 +32,12 @@ public:
         int n = matrix.size();
 
         vector<vector<int>> dp(n, vector<int>(n,INT_MIN));
+        vector<vector<bool>> vis(n, vector<bool>(n, false));
+
         int ans = INT_MAX;
 
         for (int j = 0; j < n; j++) {
-            ans = min(ans, f(n - 1, j, matrix, dp));
+            ans = min(ans, f(n - 1, j, matrix, dp, vis));
         }
 
         return ans;
