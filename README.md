@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0877-stone-game) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0746-min-cost-climbing-stairs) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0494-target-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -540,10 +543,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
