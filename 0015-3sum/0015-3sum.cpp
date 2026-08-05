@@ -1,29 +1,27 @@
 class Solution {
 public:
-    // this is the best solution
-    // two pointer approach
     vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<vector<int>> ans;
-        int n = nums.size();
-        sort(nums.begin(), nums.end());
-        for (int i = 0; i < n; i++) {
-            if (i > 0 && nums[i] == nums[i - 1]) continue;
-            int j = i + 1;
-            int k = n - 1;
-            while (j < k) {
-                if (nums[i] + nums[j] + nums[k] > 0) {
-                    k--;
-                } else if (nums[i] + nums[j] + nums[k] < 0) {
-                    j++;
-                } else {
-                    vector<int>temp={nums[i],nums[j],nums[k]};
-                    ans.push_back(temp);
-                    j++;
-                    k--;
-                    while(j<k && nums[j]==nums[j-1])j++;
-                    while(j<k && nums[k]==nums[k+1])k--;
+        int n=nums.size();
+        sort(nums.begin(),nums.end());
+        vector<vector<int>>ans;
+        for(int i=0;i<n;i++){
+            // check duplicates
+            if(i>0 && nums[i]==nums[i-1])continue;
+            int lo=i+1;
+            int hi=n-1;
+            while(lo<hi){
+                if(nums[lo]+nums[hi]+nums[i]==0){
+                    ans.push_back({nums[i],nums[lo],nums[hi]});
+                    while(lo<hi && nums[lo]==nums[lo+1])lo++;
+                    while(lo<hi && nums[hi]==nums[hi-1])hi--;
+                    lo++;
+                    hi--;
                 }
-                
+                else if(nums[lo]+nums[hi]+nums[i]<0){
+                    lo++;
+                }
+                else hi--;
+
             }
         }
         return ans;
