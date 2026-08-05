@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0657-robot-return-to-origin) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2942-find-words-containing-character) |
