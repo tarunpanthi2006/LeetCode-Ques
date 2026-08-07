@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3536-maximum-product-of-two-digits) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-average-waiting-time](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1701-average-waiting-time) |
 | [2079-watering-plants](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2942-find-words-containing-character](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2942-find-words-containing-character) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-last-stone-weight](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Counting Sort
 |  |
 | ------- |
