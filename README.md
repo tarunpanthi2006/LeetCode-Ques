@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1137-n-th-tribonacci-number) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [3840-house-robber-v](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3840-house-robber-v) |
 ## Bit Manipulation
 |  |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
@@ -566,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0518-coin-change-ii) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
