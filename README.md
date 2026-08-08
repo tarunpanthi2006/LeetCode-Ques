@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2942-find-words-containing-character) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3731-find-missing-elements](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1572-matrix-diagonal-sum) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Trie
 |  |
 | ------- |
