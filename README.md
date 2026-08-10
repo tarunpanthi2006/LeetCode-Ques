@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1609-even-odd-tree) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0547-number-of-provinces) |
 | [0872-leaf-similar-trees](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -583,4 +585,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0543-diameter-of-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
