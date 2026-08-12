@@ -1,5 +1,11 @@
 class Solution {
 public:
+    bool search(int x,vector<int>v){
+        for(int i=0;i<v.size();i++){
+            if(v[i]==x)return true;
+        }
+        return false;
+    }
     void setZeroes(vector<vector<int>>& grid) {
         int m=grid.size();
         int n=grid[0].size();
@@ -8,8 +14,8 @@ public:
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j]==0){
-                    rowvec.push_back(i);
-                    colvec.push_back(j);
+                    if(search(i,rowvec)==false) rowvec.push_back(i);
+                    if(search(j,colvec)==false)colvec.push_back(j);
                 }
             }
         }
