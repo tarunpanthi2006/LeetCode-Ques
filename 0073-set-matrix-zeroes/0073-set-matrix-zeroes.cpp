@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool search(int x,vector<int>v){
+    bool search(int x,vector<int>&v){
         for(int i=0;i<v.size();i++){
             if(v[i]==x)return true;
         }
