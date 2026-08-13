@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0400-nth-digit) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1046-last-stone-weight](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1288-remove-covered-intervals) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/3312-sorted-gcd-pair-queries) |
