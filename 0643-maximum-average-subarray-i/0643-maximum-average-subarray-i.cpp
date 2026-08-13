@@ -8,17 +8,15 @@ public:
         long long sum=0;
         while(r<n){
             sum+=nums[r];
-            if(r-l+1<k)r++;
-            else if(r-l+1==k){
+            if(r-l+1==k){
                 if((double)sum/k>avg)avg=(double)sum/k;
-                r++;
             }
             else if(r-l+1>k){
                 sum=sum-nums[l];
                 l++;
                 if((double)sum/k > avg) avg = (double)sum/k;
-                r++;
             }
+            r++;
         }
         return avg;
     }
