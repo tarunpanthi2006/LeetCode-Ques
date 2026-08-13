@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0746-min-cost-climbing-stairs) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0413-arithmetic-slices) |
+| [0643-maximum-average-subarray-i](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
