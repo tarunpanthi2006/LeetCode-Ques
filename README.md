@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1004-max-consecutive-ones-iii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
