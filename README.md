@@ -641,4 +641,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
