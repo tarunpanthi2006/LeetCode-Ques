@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0994-rotting-oranges) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1331-rank-transform-of-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2032-two-out-of-three](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/2032-two-out-of-three) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/tarunpanthi2006/LeetCode-Ques/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
