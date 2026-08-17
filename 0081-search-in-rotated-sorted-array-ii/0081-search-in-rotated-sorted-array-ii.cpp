@@ -1,28 +1,32 @@
 class Solution {
 public:
     bool search(vector<int>& nums, int target) {
+        int n=nums.size();
         int lo=0;
-        int hi=nums.size()-1;
+        int hi=n-1;
         while(lo<=hi){
             int mid=lo+(hi-lo)/2;
             if(nums[mid]==target)return true;
-            // Handle the duplicate edge case
-            if(nums[lo] == nums[mid] && nums[mid] == nums[hi]) {
+            // yeh he edge case hai
+            // agar sabhi same hai toh bss shrink kardo 
+            if(nums[lo]==nums[mid]&& nums[mid]==nums[hi]){
                 lo++;
                 hi--;
-                continue; // Skip the rest of the loop and recalculate mid
+                continue;
             }
             if(nums[lo]<=nums[mid]){
-                if(target>=nums[lo] && target<nums[mid]){
+                if(target<nums[mid]&& target>=nums[lo]){
                     hi=mid-1;
                 }
                 else lo=mid+1;
             }
             else{
-                if(target>nums[mid] && target<=nums[hi]){
+                if(target<=nums[hi]&& target>nums[mid]){
                     lo=mid+1;
                 }
-                else hi=mid-1;
+                else{
+                    hi=mid-1;
+                }
             }
         }
         return false;
