@@ -5,6 +5,7 @@ public:
         int sum=0;
         for(int i=0;i<n;i++){
             sum+=ceil(double(nums[i])/double(mid));
+            if(sum>threshold)return false;
         }
         if(sum<=threshold)return true;
         else return false;
